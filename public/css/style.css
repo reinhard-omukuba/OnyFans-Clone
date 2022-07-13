@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.hero{
+    height: 100vh;
+    width: 100%;
+    background-image: url(../images/pexels-jopwell-2422280.jpg);
+    background-size: cover;
+}
